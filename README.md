@@ -9,3 +9,4 @@ When you have equiped a copy of source code, next step is opening EZinjector Reb
 Then change build configuration to Release | x86 and simply press Build solution.
 
 If everything went right you should receive EZinjector Reborn.exe file.
+## How it works
