@@ -15,3 +15,4 @@ The injector receives information about the CS: GO game window and searches for 
 Then he starts looking for the game client, and after the client he looks for the engine.
 
 After all the operations, you can enter the name of the dll file that we want to inject into the game.
+## See also
