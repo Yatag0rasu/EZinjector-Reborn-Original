@@ -16,4 +16,4 @@ Then he starts looking for the game client, and after the client he looks for th
 
 After all the operations, you can enter the name of the dll file that we want to inject into the game.
 ## See also
-+ ul EZinjector Reborn v.2 - Injector for Valve games
++ EZinjector Reborn v.2 - Injector for Valve games
