@@ -7,7 +7,7 @@ using namespace std;
 
 char namedll[32];
 
-char process_name[32];
+
 
 Injector inj;
 
