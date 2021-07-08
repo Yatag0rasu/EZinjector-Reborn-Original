@@ -10,3 +10,8 @@ Then change build configuration to Release | x86 and simply press Build solution
 
 If everything went right you should receive EZinjector Reborn.exe file.
 ## How it works
+The injector receives information about the CS: GO game window and searches for it until it is found.
+
+Then he starts looking for the game client, and after the client he looks for the engine.
+
+After all the operations, you can enter the name of the dll file that we want to inject into the game.
